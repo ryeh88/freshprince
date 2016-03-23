@@ -1,0 +1,19 @@
+h1 {
+	color:red;
+	text-align: center;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+	font-family: 'Tangerine', cursive;
+}
+
+p {
+	color: red;
+}
+
+ul {
+	color:red;
+	list-style: none;
+}
